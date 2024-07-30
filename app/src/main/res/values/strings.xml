@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
